@@ -45,6 +45,7 @@
 
 | Project | Description |
 |---|---|
+|    **[Analyze-and-Provide-Insights-on-Amazon-Sales-Report(#)** | Analyse sales report of every sell product, purchase rate , offers, most demandind product |
 | 🚕 **[Ola City Ride Issue Analyzer](#)** | 23-section analysis across 6 datasets: cancellation classification, SLA/delay analysis, refund logic, P0–P3 priority scoring |
 | 🌦️ **[Atmospheric Condition & Surveillance Timing Analysis](#)** | ML pipeline using Random Forest, Gradient Boosting, Logistic Regression & K-Means clustering |
 > 💡 Replace the `#` links above with your actual repo URLs once you add this file.
