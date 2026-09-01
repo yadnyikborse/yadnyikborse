@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Yadnyik Borse 👋</h1>
-<h3 align="center"> Data Analyst | Data Engineer | ML Engineer</h3>
+<h3 align="center">Aspiring Data Analyst | Data Engineer | ML Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Building+ML+pipelines+that+ship;Python+%7C+SQL+%7C+Power+BI+%7C+Cloud;Open+to+entry-level+opportunities" alt="Typing SVG" />
@@ -45,10 +45,13 @@
 
 | Project | Description |
 |---|---|
-|    **[Analyze-and-Provide-Insights-on-Amazon-Sales-Report(#)** | Analyse sales report of every sell product, purchase rate , offers, most demandind product |
 | 🚕 **[Ola City Ride Issue Analyzer](#)** | 23-section analysis across 6 datasets: cancellation classification, SLA/delay analysis, refund logic, P0–P3 priority scoring |
-| 🌦️ **[Atmospheric Condition & Surveillance Timing Analysis](#)** | ML pipeline using Random Forest, Gradient Boosting, Logistic Regression & K-Means clustering |
-> 💡 Replace the `#` links above with your actual repo URLs once you add this file.
+| 🌦️ **[Atmospheric Condition & Surveillance Timing Analysis](https://github.com/yadnyikborse/Atmospheric-condition-and-servillance-timing-analysis)** | ML pipeline using Random Forest, Gradient Boosting, Logistic Regression & K-Means clustering |
+| 🛍️ **[Amazon Sales Report — Insights & Analysis](https://github.com/yadnyikborse/Analyze-and-Provide-Insights-on-Amazon-Sales-Report-)** | Sales data analysis project uncovering trends and actionable insights from an Amazon sales dataset |
+| 🍽️ **[Restaurant Insights & Customer Preference Analysis](https://github.com/yadnyikborse/Restaurant-Insights-and-Customer-Preference-Analysis)** | Data analysis exploring restaurant performance metrics and customer preference patterns |
+| 🕵️ **[Domain Generation Algorithm Detection (Deep Learning)](https://github.com/yadnyikborse/domain_generation_algorithm_by_using_deep_learning)** | Deep learning-based detection of algorithmically generated domains (DGA) used in malware/botnet activity |
+
+> 💡 Replace the `#` link above with the actual repo URL once you add it.
 
 ---
 
