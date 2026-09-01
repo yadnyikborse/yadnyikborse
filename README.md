@@ -51,7 +51,7 @@
 | 🍽️ **[Restaurant Insights & Customer Preference Analysis](https://github.com/yadnyikborse/Restaurant-Insights-and-Customer-Preference-Analysis)** | Data analysis exploring restaurant performance metrics and customer preference patterns |
 | 🕵️ **[Domain Generation Algorithm Detection (Deep Learning)](https://github.com/yadnyikborse/domain_generation_algorithm_by_using_deep_learning)** | Deep learning-based detection of algorithmically generated domains (DGA) used in malware/botnet activity |
 
-> 💡 Replace the `#` link above with the actual repo URL once you add it.
+
 
 ---
 
@@ -76,4 +76,3 @@
   <img src="https://raw.githubusercontent.com/yadnyikborse/yadnyikborse/output/github-contribution-grid-snake.svg" />
 </p>
 
-<p align="center"><i>⭐️ Thanks for stopping by — let's connect!</i></p>
