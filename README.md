@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Yadnyik Borse 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Data Engineer | ML Engineer</h3>
+<h1 align="center">Hi there, I'm Yadnyik Borse </h1>
+<h3 align="center"> Data Analyst | Data Engineer | ML Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;Building+ML+pipelines+that+ship;Python+%7C+SQL+%7C+Power+BI+%7C+Cloud;Open+to+entry-level+opportunities" alt="Typing SVG" />
